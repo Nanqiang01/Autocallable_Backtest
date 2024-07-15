@@ -1,7 +1,5 @@
 基于pricelib对中证500指数挂钩的雪球进行定价和Greeks计算，并绘制了波动率锥判断当前波动率点位。同时回测了挂钩中证1000指数的净值化雪球和挂钩个股的净值化雪球组合，并研究各项参数对净值化雪球的影响。
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nanqiang01)](https://github.com/Nanqiang01/Autocallable_Backtest)
-
 ## Star History
 
 <a href="https://star-history.com/#Nanqiang01/Autocallable_Backtest&Date">
